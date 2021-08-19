@@ -15,5 +15,8 @@ npm run serve
 npm run build
 ```
 
+### about
+This project is a mini blog app that created with vue, and I used laravel to support vue app end points
+
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [See Project on production](https://mgahed.github.io/mini-blog/).
